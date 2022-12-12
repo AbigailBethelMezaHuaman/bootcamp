@@ -1,0 +1,14 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(221, 119, 46);
+}
+.contaimer{
+    background-color: rgb(114, 184, 186);
+    width:500px;
+    height:500px;
+    margin:100px auto;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 10px,10px,10px rgb(128, 231, 231);
+
+}

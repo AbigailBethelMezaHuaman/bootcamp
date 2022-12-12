@@ -1,0 +1,18 @@
+.tabla{
+    border: 3px goldenrod;
+    border-style: solid;
+    width: 100px;
+    height:  100px;
+
+}
+.carol{
+    background-color: #ffd700;
+    height: 40px;
+
+}
+.centrado{
+    text-align: center;
+}
+.info-personal{
+    background-color: aqua;
+}

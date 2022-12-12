@@ -1,0 +1,12 @@
+.ejemplo{
+     color: darkkhaki;
+     background-color: black;
+    }
+    img{ 
+        float: left
+    }
+    #meme{ 
+        text-decoration: wavy;
+        color: blueviolet;
+        background-color: chocolate;
+    }

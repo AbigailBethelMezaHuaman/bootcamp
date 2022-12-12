@@ -1,0 +1,34 @@
+body {
+    font-family: 'Lucida Sans';
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx5wPXWWyfnF79ZRx-59NVWteQ4taX2QdJwA&usqp=CAU");
+}
+ul{
+    outline: 3px rgb(216, 122, 216);
+    outline-style:solid;
+    list-style: none;
+    padding-left: 7px; 
+    width: 150px;
+    line-height: 24px;
+background-color: white;
+}
+a{
+    text-decoration: none;
+    color:rgb(0, 0, 0);
+    display:block;
+}
+a:hover{
+background-color: rgb(127, 208, 255);
+}
+a:active{
+background-color: black;
+color:aliceblue;
+}
+ul li:first-child{
+    background-color: cadetblue;
+}
+ul li:first-child a{
+    color: rgb(0, 0, 0);
+}
+ul li:first-child a:hover{
+    color: rgb(181, 57, 57);
+}
