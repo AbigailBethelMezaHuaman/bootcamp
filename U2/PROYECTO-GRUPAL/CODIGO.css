@@ -1,0 +1,32 @@
+body{
+    background-image: url(./IMG/letters.gif);
+}
+h1{
+    background-color: rgba(33, 23, 82);
+    height: 80px;
+    font-family:'Courier New', Courier, monospace;
+    color: blanchedalmond;
+    
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+label{
+    color: blanchedalmond;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+input{
+    width: 300px;
+    height: 150px;
+    text-align: center;
+    margin-left: 350px;
+    
+}
